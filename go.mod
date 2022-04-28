@@ -1,4 +1,4 @@
-module eth-txhelper
+module github.com/cheatm/eth-txhelper
 
 go 1.17
 
